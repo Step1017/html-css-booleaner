@@ -87,3 +87,7 @@ table th{
     padding-top: 15px;
     padding-left: 20px;    
 }
+
+.evidenziato {
+    background-color: yellow;
+}

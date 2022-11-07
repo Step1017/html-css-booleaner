@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+
+header {
+background-image: url("../img/pattern.png");
+background-size: 400px;
+background-color: #2f7dc7;
+
+}
+
+.contenitore {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    width: 65%;
+}
+
+#logo {
+ height: 50px;
+ margin-top: 40px;
+}
+
+.graytext {
+    color: gray;
+    margin-left: auto;
+}
+
+#bluetext {
+    color: #2c8eeb;
+}
+
+.immagini, .paragrafo, .tabella{
+    padding-top: 15px;
+    }
+
+ .didascalie {
+    font-size: small;
+ }   
+
+
+ table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+table th{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.color-table{
+    background-color: lightskyblue;
+}
+
+.larghezza{
+    width: 25%;
+}
+    
+.piede{
+    margin-top: 30px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height:208px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 20px;    
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height:208px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 20px;    
+}
